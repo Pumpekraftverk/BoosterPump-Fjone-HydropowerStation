@@ -1,5 +1,6 @@
 """
 Reguleringssystem for "basseng" til Fjone kraftverk
+Av: Henrik Nystad og Sander Kruse m/ bachelorgruppe
 """
 
 # %% Importerer pakker
